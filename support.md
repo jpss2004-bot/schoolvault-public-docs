@@ -26,7 +26,7 @@ The companion collects supported visible course and activity text and can acquir
 
 ## Disconnect or request help
 
-Revoke a laptop in the Neyvu web app to block further uploads from its connection. Reset removes the companion's local pairing, but retains its separate Moodle browser profile. Closing or uninstalling the companion does not delete the cloud vault. Contact support for account deletion or safe local-data removal.
+Revoke a laptop in the Neyvu web app to block further uploads from its connection. **Disconnect this laptop** clears local pairing and the isolated Moodle browser sign-in after confirming disconnection. If that confirmation fails, retry with internet access or revoke the laptop on the website first. Closing or uninstalling the companion does not delete the cloud vault. Contact support for account deletion or safe local-data removal.
 
 Send the exact error message, operating system, Companion version and step where it happened. When signed in, you can explicitly share a pilot feedback report from the workspace; private notes and chats are not attached automatically. Do not send passwords, verification codes, connection codes, cookies or private course files unless a specific secure support method has been agreed.
 

@@ -33,7 +33,7 @@ Course sources and notes retain versions, and the beta currently has no automati
 ## Your choices and requests
 
 - You can stop collection by closing the companion and revoke a laptop's Neyvu connection in the web app.
-- Resetting the companion removes its local pairing credential. It does not remove its separate Moodle browser profile. On Windows that profile is under `%APPDATA%\SchoolVault Companion Desktop\moodle-browser`; contact support for help removing local data safely.
+- Choosing **Disconnect this laptop** confirms revocation of a readable connection grant, then clears the local pairing and isolated Moodle browser sign-in. If Neyvu cannot confirm disconnection, the saved connection is retained so you can retry or revoke the laptop on the website first. On Windows the isolated profile uses the retained internal path `%APPDATA%\SchoolVault Companion Desktop\moodle-browser`; the old folder name does not mean a separate account.
 - You can request access, correction or deletion of your account information by emailing **jpss2004@gmail.com** from your registered address. We may need to verify that the request belongs to the account holder. Account deletion is currently assisted by the operator; there is no self-service account deletion button.
 - Do not upload passwords, identity documents or unrelated sensitive material. Only connect a Moodle account you are authorized to use.
 
